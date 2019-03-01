@@ -1,2 +1,2 @@
-// Write your code in this 
+// Write your code in this
 const currentUser = "Grace Hopper";
