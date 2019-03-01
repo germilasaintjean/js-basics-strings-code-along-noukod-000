@@ -1,2 +1,2 @@
 // Write your code in this file!
-var currentUser = [3]
+var currentUser = [3];
